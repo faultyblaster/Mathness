@@ -31,7 +31,7 @@ while current_divisor <= biggest_divisor:
         currentPrimeFactors = prime_factors(current_divisor)
         for x in currentPrimeFactors:
             smallest = smallest * x
-            if (smallest * x) % current_divisor == 0:
+            if smallest % current_divisor == 0:
                 break
     # Increment the divisor by 1
     current_divisor += 1
