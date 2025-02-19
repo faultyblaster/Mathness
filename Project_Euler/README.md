@@ -1,6 +1,6 @@
 # Project Euler
 
-This folder contains solutions to the problems in the [Project Euler](projecteuler.net) website, which I am solving for fun
+This folder contains solutions to the problems in the [Project Euler](https://projecteuler.net) website, which I am solving for fun
 
 ## Languages and techs
 
